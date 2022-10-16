@@ -28,12 +28,56 @@
   
 </div>
  
- 
- 
  ##
  
+ <div>
+
+<table border="2" align="center">
+<tr>
+<th>DESENVOLVENDO</th>
+<th> DADOS</th>
+</tr>
+<tr>
+<td>Linguagem</td>
+<td><a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>  
+</td>
+</tr>
+<tr>
+<td>Dominio</td>
+<td><a href="" target="_blank"><img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" target="_blank"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" target="_blank"></a>
+
+</td>
+</tr>
+<tr>
+<td>Databases</td>
+<td><a href="" target="_blank"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a></td>
+</tr>
+<tr>
+<td>OS</td>
+<td>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" target="_blank"></a>
+</td>
+</tr>
+<tr>
+<td>CI/CD</td>
+<td><a href="" target="_blank"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" target="_blank"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>  
+</td>
+</tr>
+
+</table>
+
+</div>
+
+##
+ 
 <div> 
-  
 
 <a href="https://br.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://www.google.com/intl/pt/gmail/about/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
