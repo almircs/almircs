@@ -32,7 +32,7 @@
  
  <div>
 
-<table border="2" align="center">
+<table border="2" align="">
 <tr>
 <th>DESENVOLVENDO</th>
 <th> DADOS</th>
