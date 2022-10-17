@@ -46,7 +46,7 @@
 </td>
 </tr>
 <tr>
-<td>Dominio</td>
+<td>Domínio</td>
 <td>
 <a href="https://github.com/almircs"><img src="https://camo.githubusercontent.com/1bb4c396b492e951d82325fdc9fc9c503800ee71b9bb6117379a19f6a94a6976/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d616368696e652532304c6561726e696e672d3031443237373f7374796c653d666c6174266c6f676f436f6c6f723d7768697465" alt="Machine Learning Badge" data-canonical-src="https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://github.com/almircs"><img src="https://camo.githubusercontent.com/92f6b93a905a07675c7d0f88f0eb44c1ec4d2ec644a4d165b759220ed3d33a72/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d436f6d7075746572253230536369656e63652d4641423034303f7374796c653d666c6174266c6f676f436f6c6f723d7768697465" alt="Computer Science Development Badge" data-canonical-src="https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&amp;logoColor=white" style="max-width: 100%;"></a>
