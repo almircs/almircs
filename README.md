@@ -77,7 +77,13 @@
 
 ##
  
-<div> 
+ 
+ <div align="center">
+ 
+ <img height="160em" src="https://cdn.pixabay.com/photo/2017/07/09/09/25/icon-2486501_960_720.png"/>
+ 
+   
+</div>
 
 <a href="https://br.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://www.google.com/intl/pt/gmail/about/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
