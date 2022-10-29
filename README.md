@@ -113,4 +113,15 @@
 <!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-night-view.svg)
 
-</div> 
+</div>
+
+##
+
+<div align="center">
+ 
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=almircs)](https://git.io/streak-stats)
+ 
+ </div>
+
+##
+##
