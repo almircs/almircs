@@ -144,7 +144,6 @@
 ##
 
 ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
- 
-  <h5> <a href="https://github.com/Sumanth-Talluri">By Sumanth</a></h5>
+  <h6> <a href="https://github.com/rodrigograca31">By Rodrigo Graça</a></h6>
   
 ##
