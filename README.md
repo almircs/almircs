@@ -123,7 +123,7 @@
 
 <div align="center">
  
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=almircs)](https://git.io/streak-stats)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=almircs&theme=dark&hide_border=true&locale=pt-br)](https://git.io/streak-stats)
  
  </div>
 
