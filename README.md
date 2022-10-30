@@ -122,7 +122,7 @@
 ##
 <div>
 
- https://github-profile-trophy.vercel.app/?username=almircs&margin-w=15
+[![trophy](https://github-profile-trophy.vercel.app/?username=almircs)](https://github.com/almircs/github-profile-trophy)
 
 </div>
 
