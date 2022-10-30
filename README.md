@@ -120,7 +120,7 @@
 </div>
 
 ##
-<div>
+<div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=almircs)](https://github.com/almircs/github-profile-trophy)
 
@@ -140,3 +140,5 @@
 
 ### 📈 GitHub Activity Graph:
 ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=almircs&hide_border=true&theme=redical)
+
+##
