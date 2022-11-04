@@ -147,3 +147,7 @@
   <h6> <a href="https://github.com/rodrigograca31">Matrix-Rodrigo Graça</a></h6>
   
 ##
+
+<img width=100% src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
+
+##
