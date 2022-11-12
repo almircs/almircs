@@ -149,7 +149,7 @@
 ##
 
 
-[linkedin]: https://www.linkedin.com/in/carlos-almir/
+[linkedin]:https://www.linkedin.com/
 [instagram]: https://www.instagram.com/almircs.dev/
 [youtube]: https://www.youtube.com/channel/UCsoIAs_geL01KE6Ov2DIhOg
 [gmail]: https://mail.google.com/mail/u/almircs.dev.com
