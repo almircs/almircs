@@ -139,9 +139,9 @@
 ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=almircs&hide_border=true&theme=redical)
 
 ##
+<img width=100% src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
 
-
-
+##
 [linkedin]:https://www.linkedin.com/
 [instagram]: https://www.instagram.com/almircs.dev/
 [youtube]: https://www.youtube.com/channel/UCsoIAs_geL01KE6Ov2DIhOg
