@@ -108,14 +108,6 @@
   ![Snake animation](https://github.com/almircs/almircs/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-##
-
-<div> 
-
-<!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-night-view.svg)
-
-</div>
 
 ##
 <div align="center">
@@ -139,6 +131,14 @@
 ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=almircs&hide_border=true&theme=redical)
 
 ##
+
+<div> 
+
+<!--   profile-green-animate -->
+![](./profile-3d-contrib/profile-night-view.svg)
+
+</div>
+
 <img width=100% src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
 
 ##
