@@ -34,7 +34,7 @@
  
  ##
  
- <div>
+ <div align="center">
 
 <table border="2" align="">
 <tr>
