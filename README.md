@@ -138,15 +138,10 @@
 ![](https://komarev.com/ghpvc/?username=almircs-github-username&label=PROFILE+VIEWS)
 ##
 
-### 📈 GitHub Activity Graph:
 ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=almircs&hide_border=true&theme=redical)
 
 ##
 
-![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)    
-<img width=100% src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
-
-##
 
 
 [linkedin]:https://www.linkedin.com/
