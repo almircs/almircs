@@ -47,7 +47,7 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" target="_blank"></a>    
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" target="_blank"></a>
  </td>
 </tr>
 <tr>
@@ -77,6 +77,15 @@
 <td><a href="https://github.com/almircs"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" target="_blank"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>  
+</td>
+</tr>
+ 
+ <tr>
+<td>Certificados</td>
+<td>
+<a href="https://www.dropbox.com/s/seifbmqwdyisi24/Certificados%20Alura.png?dl=0"><img src="https://img.shields.io/badge/Link-Alura-133170?style=for-the-badge" alt="Link - Alura"></a>
+<a href="https://www.dropbox.com/s/s9elgsagf43fq66/Certificado%20Origamid.png?dl=0"><img src="https://img.shields.io/badge/Link-Origamid-B04DDB?style=for-the-badge" alt="Link - Origamid"></a>
+ 
 </td>
 </tr>
 
