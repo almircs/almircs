@@ -83,9 +83,9 @@
  <tr>
 <td>Certificados</td>
 <td>
-<a href="https://www.dropbox.com/s/seifbmqwdyisi24/Certificados%20Alura.png?dl=0"><img src="https://img.shields.io/badge/Alura-133170?style=for-the-badge" alt="Alura"></a>
-<a href="https://www.dropbox.com/s/s9elgsagf43fq66/Certificado%20Origamid.png?dl=0"><img src="https://img.shields.io/badge/Origamid-B04DDB?style=for-the-badge" alt="Origamid"></a>
-<a href="https://www.dropbox.com/s/gll7nyr0yz6x640/Certivicado%20CeV.png?dl=0"><img src="https://img.shields.io/badge/Curso_em_V%C3%ADdeo-395ADB?style=for-the-badge" alt="Curso em Vídeo"></a>
+<a href="https://www.dropbox.com/s/seifbmqwdyisi24/Certificados%20Alura.png?dl=0"><img src="https://img.shields.io/badge/11-Alura-133170?style=for-the-badge" alt="11 - Alura"></a>
+<a href="https://www.dropbox.com/s/s9elgsagf43fq66/Certificado%20Origamid.png?dl=0"><img src="https://img.shields.io/badge/1-Origamid-B04DDB?style=for-the-badge" alt="1 - Origamid"></a>
+<a href="https://www.dropbox.com/s/gll7nyr0yz6x640/Certivicado%20CeV.png?dl=0"><img src="https://img.shields.io/badge/1-Curso_em_V%C3%ADdeo-395ADB?style=for-the-badge" alt="1 - Curso em Vídeo"></a>
  
 </td>
 </tr>
