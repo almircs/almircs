@@ -85,6 +85,7 @@
 <td>
 <a href="https://www.dropbox.com/s/seifbmqwdyisi24/Certificados%20Alura.png?dl=0"><img src="https://img.shields.io/badge/Link-Alura-133170?style=for-the-badge" alt="Link - Alura"></a>
 <a href="https://www.dropbox.com/s/s9elgsagf43fq66/Certificado%20Origamid.png?dl=0"><img src="https://img.shields.io/badge/Link-Origamid-B04DDB?style=for-the-badge" alt="Link - Origamid"></a>
+<a href="https://www.dropbox.com/s/gll7nyr0yz6x640/Certivicado%20CeV.png?dl=0"><img src="https://img.shields.io/badge/Link-Curso_em_V%C3%ADdeo-395ADB?style=for-the-badge" alt="Link - Curso em Vídeo"></a>
  
 </td>
 </tr>
