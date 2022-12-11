@@ -138,10 +138,6 @@
 ![](https://komarev.com/ghpvc/?username=almircs-github-username&label=PROFILE+VIEWS)
 ##
 
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=almircs&hide_border=true&theme=redical)
-
-##
-
 <div> 
 
 <!--   profile-green-animate -->
