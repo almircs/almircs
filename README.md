@@ -6,29 +6,100 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=4478E3&center=true&vCenter=true&width=520&lines=Construo+aplica%C3%A7%C3%B5es+web+e+desktop;HTML+%C2%B7+CSS+%C2%B7+JavaScript+%C2%B7+PHP+%C2%B7+Python;Sempre+aprendendo+algo+novo" alt="Construo aplicações web e desktop · HTML, CSS, JavaScript, PHP e Python · Sempre aprendendo algo novo"/>
 </a>
 
-<br/>
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/almircs.dev/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCsoIAs_geL01KE6Ov2DIhOg)
-![Visitas ao perfil](https://komarev.com/ghpvc/?username=almircs&label=visitas&color=4478e3&style=for-the-badge)
-
 </div>
 
 ---
 
-### 👋 Sobre mim
+<img align="right" width="340" src="./assets/apresentacao.svg" alt="Ilustração de um notebook com código sendo escrito"/>
 
-Sou o **Carlos Almir**, desenvolvedor web em formação contínua. Comecei pelo HTML e CSS, passei pelo JavaScript e hoje construo aplicações completas — de páginas responsivas a apps de desktop para controle financeiro e organização pessoal.
+### 👋 Olá, eu sou o Carlos!
+
+Desenvolvedor web em formação contínua. Comecei pelo HTML e CSS, passei pelo JavaScript e hoje construo aplicações completas — de páginas responsivas a apps de desktop para controle financeiro e organização pessoal.
 
 - 🔭 Trabalhando em projetos pessoais de **finanças** e **saúde**, com versões web e desktop
 - 🌱 Estudando arquitetura de aplicações, testes e boas práticas de front-end
-- 🎓 13 certificados: [Alura](https://www.dropbox.com/s/seifbmqwdyisi24/Certificados%20Alura.png?dl=0) (11), [Origamid](https://www.dropbox.com/s/s9elgsagf43fq66/Certificado%20Origamid.png?dl=0) (1) e [Curso em Vídeo](https://www.dropbox.com/s/gll7nyr0yz6x640/Certivicado%20CeV.png?dl=0) (1)
+- 💬 Me encontre no [Instagram](https://www.instagram.com/almircs.dev/) e no [YouTube](https://www.youtube.com/channel/UCsoIAs_geL01KE6Ov2DIhOg)
 
-### 🛠️ Tecnologias
+<br clear="right"/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,git,github,vscode,linux,windows&theme=dark" alt="HTML, CSS, JavaScript, PHP, Python, MySQL, Git, GitHub, VS Code, Linux e Windows"/>
-</p>
+### 📋 Dados
+
+<div align="center">
+
+<table>
+  <tr>
+    <th align="left">Área</th>
+    <th align="left">Detalhes</th>
+  </tr>
+  <tr>
+    <td><b>Linguagens</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Bibliotecas e técnicas</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white" alt="p5.js"/>
+      <img src="https://img.shields.io/badge/Flexbox_&_Grid-264DE4?style=for-the-badge&logo=css3&logoColor=white" alt="Flexbox e Grid"/>
+      <img src="https://img.shields.io/badge/Responsivo-0B7285?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Design responsivo"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Bancos de dados</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+      <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Ferramentas</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Sistemas</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Áreas de interesse</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Desenvolvimento_Web-FF6600?style=flat-square" alt="Desenvolvimento Web"/>
+      <img src="https://img.shields.io/badge/Aplicativos_Desktop-6E40C9?style=flat-square" alt="Aplicativos Desktop"/>
+      <img src="https://img.shields.io/badge/Ciência_da_Computação-FAB040?style=flat-square" alt="Ciência da Computação"/>
+      <img src="https://img.shields.io/badge/Machine_Learning-01D277?style=flat-square" alt="Machine Learning"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Certificados</b></td>
+    <td>
+      <a href="https://www.dropbox.com/s/seifbmqwdyisi24/Certificados%20Alura.png?dl=0"><img src="https://img.shields.io/badge/11-Alura-051933?style=for-the-badge&labelColor=4478e3" alt="11 certificados Alura"/></a>
+      <a href="https://www.dropbox.com/s/s9elgsagf43fq66/Certificado%20Origamid.png?dl=0"><img src="https://img.shields.io/badge/1-Origamid-B04DDB?style=for-the-badge&labelColor=4478e3" alt="1 certificado Origamid"/></a>
+      <a href="https://www.dropbox.com/s/gll7nyr0yz6x640/Certivicado%20CeV.png?dl=0"><img src="https://img.shields.io/badge/1-Curso_em_Vídeo-395ADB?style=for-the-badge&labelColor=4478e3" alt="1 certificado Curso em Vídeo"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Contato</b></td>
+    <td>
+      <a href="https://www.instagram.com/almircs.dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+      <a href="https://www.youtube.com/channel/UCsoIAs_geL01KE6Ov2DIhOg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ### 🚀 Projetos em destaque
 
@@ -72,6 +143,10 @@ Sou o **Carlos Almir**, desenvolvedor web em formação contínua. Comecei pelo 
 <br/>
 <img src="./profile-3d-contrib/profile-night-view.svg" alt="Gráfico 3D de contribuições"/>
 </details>
+
+<br/>
+
+![Visitas ao perfil](https://komarev.com/ghpvc/?username=almircs&label=visitas%20ao%20perfil&color=4478e3&style=flat-square)
 
 </div>
 
