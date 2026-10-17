@@ -1,154 +1,74 @@
-##
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4478e3&height=200&section=header&text=Bem%20vindo!&fontSize=85"/>
-
-##
-
-<div align="center"> 
- 
-  <a href="https://https://github.com/almircs/html-css">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=almircs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almircs&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-  
-  ##
- 
-  <div align="center">
- 
- <img height="165em" src="https://camo.githubusercontent.com/d348976f3419cd09cf731439742c1b889e3f3cd8e04b2e72e7a219d85b049c37/68747470733a2f2f636c6f75642d6c66697532373079302d6861636b2d636c75622d626f742e76657263656c2e6170702f30666f6f7465722e706e67"/>
- 
-   
-</div>
- 
- <div style="display: inline_block"><br>
- 
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="PHp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- 
-  
-</div>
- 
- ##
- 
- <div align="center">
-
-<table border="2" align="">
-<tr>
-<th>DESENVOLVENDO</th>
-<th> DADOS</th>
-</tr>
-<tr>
-<td>Linguagem</td>
- <td>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" target="_blank"></a>
- </td>
-</tr>
-<tr>
-<td>Domínio</td>
-<td>
-<a href="https://github.com/almircs"><img src="https://camo.githubusercontent.com/1bb4c396b492e951d82325fdc9fc9c503800ee71b9bb6117379a19f6a94a6976/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d616368696e652532304c6561726e696e672d3031443237373f7374796c653d666c6174266c6f676f436f6c6f723d7768697465" alt="Machine Learning Badge" data-canonical-src="https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="https://github.com/almircs"><img src="https://camo.githubusercontent.com/92f6b93a905a07675c7d0f88f0eb44c1ec4d2ec644a4d165b759220ed3d33a72/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d436f6d7075746572253230536369656e63652d4641423034303f7374796c653d666c6174266c6f676f436f6c6f723d7768697465" alt="Computer Science Development Badge" data-canonical-src="https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="https://github.com/almircs"><img src="https://camo.githubusercontent.com/5c050b43b7f1f051c6e185b5e71862fad2fc0f83778e6c59d32e486aabd5e5a7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d536f667477617265253230446576656c6f706d656e742d4646363630303f7374796c653d666c6174266c6f676f436f6c6f723d7768697465" alt="Software Development Badge" data-canonical-src="https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&amp;logoColor=white" style="max-width: 100%;"></a>
-
-</td>
-</tr>
-<tr>
-<td>Databases</td>
-<td>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/e863bc79abf7a53150665ce9eb1a93f4fb6183af46bc3fb345ee5562736eb23c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d2532333030662e7376673f6c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465"><img alt="MySQL" src="https://camo.githubusercontent.com/e863bc79abf7a53150665ce9eb1a93f4fb6183af46bc3fb345ee5562736eb23c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d2532333030662e7376673f6c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"></a>
-<a href="" target="_blank"><img src="https://camo.githubusercontent.com/c44ec7dbcddd4dea22204197ce11e45bea3ef03ff97e45294bf66ea793527706/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d53514c2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d626c7565" target="_blank"></a></td>
-</tr>
-<tr>
-<td>OS</td>
-<td>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" target="_blank"></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" target="_blank"></a>
-</td>
-</tr>
-<tr>
-<td>CI/CD</td>
-<td><a href="https://github.com/almircs"><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" target="_blank"></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank"></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>  
-</td>
-</tr>
- 
- <tr>
-<td>Certificados</td>
-<td>
-<a href="https://www.dropbox.com/s/seifbmqwdyisi24/Certificados%20Alura.png?dl=0"><img src="https://img.shields.io/badge/11-Alura-133170?style=for-the-badge" alt="11 - Alura"></a>
-<a href="https://www.dropbox.com/s/s9elgsagf43fq66/Certificado%20Origamid.png?dl=0"><img src="https://img.shields.io/badge/1-Origamid-B04DDB?style=for-the-badge" alt="1 - Origamid"></a>
-<a href="https://www.dropbox.com/s/gll7nyr0yz6x640/Certivicado%20CeV.png?dl=0"><img src="https://img.shields.io/badge/1-Curso_em_V%C3%ADdeo-395ADB?style=for-the-badge" alt="1 - Curso em Vídeo"></a>
- 
-</td>
-</tr>
-
-</table>
-
-</div>
-
-##
- 
- 
- <div align="center">
- 
- <img height="160em" src="https://cdn.pixabay.com/photo/2017/07/09/09/25/icon-2486501_960_720.png"/>
- 
-   
-</div>
-
-[<img alt="webDev | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img alt="webDev | Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
-[<img alt="webDev | YouTube" src="https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
-    [<a href="https://www.google.com/intl/pt/gmail/about/" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>][gmail]
- 
- </div>
-  
-  ##
- 
-<div> 
- 
-  ![Snake animation](https://github.com/almircs/almircs/blob/output/github-contribution-grid-snake.svg)
-</div>
-
-
-##
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=almircs)](https://github.com/almircs/github-profile-trophy)
-
-</div>
-
-##
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4478e3&height=180&section=header&text=Carlos%20Almir&fontSize=60&fontColor=ffffff&desc=Desenvolvedor%20Web&descAlignY=72&descSize=20" alt="Carlos Almir — Desenvolvedor Web"/>
 
 <div align="center">
- 
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=almircs&theme=dark&hide_border=true&locale=pt-br)](https://git.io/streak-stats)
- 
- </div>
 
-##
-![](https://komarev.com/ghpvc/?username=almircs-github-username&label=PROFILE+VIEWS)
-##
-
-<div> 
-
-<!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-night-view.svg)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/almircs.dev/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCsoIAs_geL01KE6Ov2DIhOg)
 
 </div>
 
-<img width=100% src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
+## 👋 Sobre mim
 
-##
-[linkedin]:https://www.linkedin.com/
-[instagram]: https://www.instagram.com/almircs.dev/
-[youtube]: https://www.youtube.com/channel/UCsoIAs_geL01KE6Ov2DIhOg
-[gmail]: https://mail.google.com/mail/u/almircs.dev.com
+Sou o **Carlos Almir**, desenvolvedor web em formação contínua. Comecei pelo HTML e CSS, passei pelo JavaScript e hoje construo aplicações completas — de páginas responsivas a apps de desktop para controle financeiro e organização pessoal.
+
+- 🔭 Hoje trabalho em projetos pessoais de **finanças** e **saúde**, com versões web e desktop
+- 🌱 Estudando arquitetura de aplicações, testes e boas práticas de front-end
+- 🎓 Certificados: 11 pela [Alura](https://www.dropbox.com/s/seifbmqwdyisi24/Certificados%20Alura.png?dl=0), 1 pela [Origamid](https://www.dropbox.com/s/s9elgsagf43fq66/Certificado%20Origamid.png?dl=0) e 1 pelo [Curso em Vídeo](https://www.dropbox.com/s/gll7nyr0yz6x640/Certivicado%20CeV.png?dl=0)
+
+## 🛠️ Tecnologias
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+</div>
+
+## 🚀 Projetos em destaque
+
+| Projeto | O que é | Tecnologias | Links |
+|---|---|---|---|
+| **Jogo da Velha** | Jogo para dois jogadores com detecção de vitória e empate | HTML, CSS, JavaScript | [código](https://github.com/almircs/Jogo-da-Velha) · [jogar](https://almircs.github.io/Jogo-da-Velha/) |
+| **Freeway** | Jogo de atravessar a rua com placar, colisões e trilha sonora | JavaScript, p5.js | [código](https://github.com/almircs/Freeway) · [jogar](https://almircs.github.io/Freeway/) |
+| **Alura MIDI** | Bateria virtual tocada pelo mouse ou pelo teclado | HTML, CSS, JavaScript | [código](https://github.com/almircs/Aluramidi) · [tocar](https://almircs.github.io/Aluramidi/) |
+| **HZC** | Página de vídeos responsiva construída com Flexbox e Grid | HTML, CSS | [código](https://github.com/almircs/Flex-e-Grid) · [ver](https://almircs.github.io/Flex-e-Grid/) |
+| **Barbearia Alura** | Site institucional de três páginas com formulário de contato | HTML, CSS | [código](https://github.com/almircs/Barbearia) · [ver](https://almircs.github.io/Barbearia/) |
+| **HTML & CSS** | Exercícios do curso de HTML5 e CSS3 do Curso em Vídeo | HTML, CSS | [código](https://github.com/almircs/HTML-CSS) · [ver](https://almircs.github.io/HTML-CSS/) |
+
+## 📊 Estatísticas
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=almircs&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almircs&layout=compact&langs_count=7&theme=dark&hide_border=true&locale=pt-br" alt="Linguagens mais usadas"/>
+
+<img src="https://streak-stats.demolab.com?user=almircs&theme=dark&hide_border=true&locale=pt_BR" alt="Sequência de contribuições"/>
+
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/almircs/almircs/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/almircs/almircs/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="Gráfico 3D de contribuições"/>
+
+![Visitas ao perfil](https://komarev.com/ghpvc/?username=almircs&label=visitas&color=4478e3&style=flat)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4478e3&height=100&section=footer" alt=""/>
