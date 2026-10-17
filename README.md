@@ -18,7 +18,7 @@ Desenvolvedor web em formação contínua. Comecei pelo HTML e CSS, passei pelo 
 
 - 🔭 Trabalhando em projetos pessoais de **finanças** e **saúde**, com versões web e desktop
 - 🌱 Estudando arquitetura de aplicações, testes e boas práticas de front-end
-- 💬 Me encontre no [Instagram](https://www.instagram.com/almircs.dev/) e no [YouTube](https://www.youtube.com/channel/UCsoIAs_geL01KE6Ov2DIhOg)
+- 💬 Me encontre no [LinkedIn](https://www.linkedin.com/in/carlos-almir/), no [Instagram](https://www.instagram.com/almircs.dev/) e no [YouTube](https://www.youtube.com/channel/UCsoIAs_geL01KE6Ov2DIhOg)
 
 <br clear="right"/>
 
@@ -74,12 +74,23 @@ Desenvolvedor web em formação contínua. Comecei pelo HTML e CSS, passei pelo 
     </td>
   </tr>
   <tr>
+    <td><b>Inteligência Artificial</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+      <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
+      <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+      <img src="https://img.shields.io/badge/APIs_de_IA-412991?style=for-the-badge&logo=openai&logoColor=white" alt="APIs de IA"/>
+    </td>
+  </tr>
+  <tr>
     <td><b>Áreas de interesse</b></td>
     <td>
       <img src="https://img.shields.io/badge/Desenvolvimento_Web-FF6600?style=flat-square" alt="Desenvolvimento Web"/>
       <img src="https://img.shields.io/badge/Aplicativos_Desktop-6E40C9?style=flat-square" alt="Aplicativos Desktop"/>
       <img src="https://img.shields.io/badge/Ciência_da_Computação-FAB040?style=flat-square" alt="Ciência da Computação"/>
       <img src="https://img.shields.io/badge/Machine_Learning-01D277?style=flat-square" alt="Machine Learning"/>
+      <img src="https://img.shields.io/badge/Automação_com_IA-EA4B71?style=flat-square" alt="Automação com IA"/>
     </td>
   </tr>
   <tr>
@@ -93,6 +104,7 @@ Desenvolvedor web em formação contínua. Comecei pelo HTML e CSS, passei pelo 
   <tr>
     <td><b>Contato</b></td>
     <td>
+      <a href="https://www.linkedin.com/in/carlos-almir/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
       <a href="https://www.instagram.com/almircs.dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
       <a href="https://www.youtube.com/channel/UCsoIAs_geL01KE6Ov2DIhOg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
     </td>
