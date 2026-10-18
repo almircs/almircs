@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 352" width="900" height="352" role="img" aria-labelledby="t d">
 <title id="t">Terminal de apresentação</title>
-<desc id="d">whoami: Carlos Almir · técnico em eletrônica que virou dev | cat experiencia.txt: 30+ anos · CLP Siemens · robôs ABB e KUKA · equipamentos biomédicos | ls ~/estudando: html  css  javascript  python  git  linux  apis  ia | ia --ferramentas: ChatGPT · Claude · Gemini · n8n · APIs de IA | git status: No branch main: construindo Finora e Helyx 🚀</desc>
+<desc id="d">whoami: Carlos Almir · técnico em eletrônica, automação e robótica | cat experiencia.txt: 30+ anos · CLP Siemens · robôs ABB e KUKA · equipamentos biomédicos | ls ~/estudando: html  css  javascript  python  git  linux  apis  ia | ia --ferramentas: ChatGPT · Claude · Gemini · n8n · APIs de IA | git status: No branch main: construindo Finora e Helyx 🚀</desc>
 <defs>
   <clipPath id="tela"><rect x="0" y="44" width="900" height="308"/></clipPath>
 </defs>
@@ -14,7 +14,7 @@
 <clipPath id="c0"><rect x="154.0" y="56" height="22" width="0"><animate attributeName="width" values="0;0;52.4;52.4" keyTimes="0.0000;0.0068;0.0345;1.0000" dur="22.0s" repeatCount="indefinite"/></rect></clipPath>
 <text x="154.0" y="72" fill="#e6edf3" clip-path="url(#c0)">whoami</text>
 </g>
-<text x="28" y="94" fill="#8b98ad" opacity="0">Carlos Almir · técnico em eletrônica que virou dev<animate attributeName="opacity" values="0;0;1;1" keyTimes="0.0000;0.0459;0.0460;1.0000" dur="22.0s" repeatCount="indefinite"/></text>
+<text x="28" y="94" fill="#8b98ad" opacity="0">Carlos Almir · técnico em eletrônica, automação e robótica<animate attributeName="opacity" values="0;0;1;1" keyTimes="0.0000;0.0459;0.0460;1.0000" dur="22.0s" repeatCount="indefinite"/></text>
 <g opacity="0"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0.0000;0.1091;0.1092;1.0000" dur="22.0s" repeatCount="indefinite"/>
 <text x="28" y="123.7" fill="#3fb950">almircs@dev<tspan fill="#8b98ad">:</tspan><tspan fill="#7aa2f7">~</tspan><tspan fill="#8b98ad">$ </tspan></text>
 <clipPath id="c1"><rect x="154.0" y="107.7" height="22" width="0"><animate attributeName="width" values="0;0;161.6;161.6" keyTimes="0.0000;0.1159;0.1791;1.0000" dur="22.0s" repeatCount="indefinite"/></rect></clipPath>
