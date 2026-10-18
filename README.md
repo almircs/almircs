@@ -165,13 +165,6 @@ Técnico em eletrônica com **mais de 30 anos** em manutenção e automação in
 <img width="49%" src="https://streak-stats.demolab.com?user=almircs&theme=dark&hide_border=true&locale=pt_BR&card_width=495&card_height=195" alt="Sequência de contribuições"/>
 <img width="98.6%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almircs&layout=compact&langs_count=8&theme=dark&hide_border=true&locale=pt-br&card_width=1000" alt="Linguagens mais usadas"/>
 
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/almircs/almircs/output/github-contribution-grid-snake-dark.svg">
-  <img alt="Cobrinha percorrendo o gráfico de contribuições" src="https://raw.githubusercontent.com/almircs/almircs/output/github-contribution-grid-snake.svg">
-</picture>
-
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4478e3,100:1f4fbf&height=110&section=footer" alt=""/>
