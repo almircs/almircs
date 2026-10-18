@@ -173,16 +173,6 @@ Técnico em eletrônica com **mais de 30 anos** em manutenção e automação in
   <img alt="Cobrinha percorrendo o gráfico de contribuições" src="https://raw.githubusercontent.com/almircs/almircs/output/github-contribution-grid-snake.svg">
 </picture>
 
-<details>
-<summary><b>Ver contribuições em 3D</b></summary>
-<br/>
-<img src="./profile-3d-contrib/profile-night-view.svg" alt="Gráfico 3D de contribuições"/>
-</details>
-
-<br/>
-
-![Visitas ao perfil](https://komarev.com/ghpvc/?username=almircs&label=visitas%20ao%20perfil&color=4478e3&style=flat-square)
-
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4478e3,100:1f4fbf&height=110&section=footer" alt=""/>
