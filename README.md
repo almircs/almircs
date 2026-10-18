@@ -13,7 +13,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/apresentacao-escuro.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/apresentacao-claro.svg">
-  <img align="right" width="380" src="./assets/apresentacao-claro.svg" alt="Ilustração de um notebook com código sendo escrito"/>
+  <img align="right" width="340" src="./assets/apresentacao-claro.svg" alt="Ilustração de um notebook com código sendo escrito"/>
 </picture>
 
 ### 👋 Olá, eu sou o Carlos!
@@ -24,6 +24,7 @@ Técnico em eletrônica com **mais de 30 anos** em manutenção e automação in
 - 💬 [Instagram](https://www.instagram.com/almircs.dev/) · [YouTube](https://www.youtube.com/channel/UCsoIAs_geL01KE6Ov2DIhOg)
 
 <br clear="right"/>
+<br/>
 
 <div align="center">
 
