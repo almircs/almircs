@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 250" width="440" height="250" role="img" aria-labelledby="t d">
+<title id="t">Helyx — em construção</title>
+<desc id="d">Gestão pessoal de saúde. Consultas, exames e resultados ligados. Medicamentos, agenda e documentos. Backup e restauração dos dados. Windows, macOS, Desktop.</desc>
+<defs>
+  <linearGradient id="gi" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1f6feb"/><stop offset="1" stop-color="#2ea043"/></linearGradient>
+  <linearGradient id="gb" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#1f6feb"/><stop offset="1" stop-color="#2ea043"/></linearGradient>
+  <linearGradient id="brilho" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.45"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+  </linearGradient>
+  <clipPath id="barra"><rect x="24" y="214" width="392" height="8" rx="4"/></clipPath>
+  <clipPath id="cartao"><rect x="0.5" y="0.5" width="439" height="249" rx="16"/></clipPath>
+</defs>
+<rect x="0.5" y="0.5" width="439" height="249" rx="16" fill="#ffffff" stroke="#d5dcea"/>
+<rect x="0" y="0" width="440" height="4" fill="url(#gb)" clip-path="url(#cartao)"/>
+<g transform="translate(24,24)">
+  <rect width="56" height="56" rx="14" fill="url(#gi)"/>
+  <path d="M14 9 C30 19, 14 31, 30 45" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+  <path d="M30 9 C14 19, 30 31, 14 45" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" opacity="0.7"/>
+  <line x1="17" y1="15" x2="27" y2="15" stroke="#fff" stroke-width="2" opacity="0.8"/>
+  <line x1="17" y1="39" x2="27" y2="39" stroke="#fff" stroke-width="2" opacity="0.8"/>
+  <circle cx="40" cy="40" r="11" fill="#fff"/>
+  <rect x="37.6" y="33" width="4.8" height="14" rx="1.2" fill="#1f6feb"/>
+  <rect x="33" y="37.6" width="14" height="4.8" rx="1.2" fill="#1f6feb"/>
+</g>
+<text x="94" y="50" font-family="'Segoe UI', -apple-system, Roboto, Helvetica, Arial, sans-serif" font-size="22" font-weight="800" fill="#1f2328">Helyx</text>
+<text x="94" y="72" font-family="'Segoe UI', -apple-system, Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#57606a">Gestão pessoal de saúde</text>
+<g transform="translate(416,30)">
+  <rect x="-118" y="-12" width="118" height="24" rx="12" fill="#f3f6fb" stroke="#d5dcea"/>
+  <circle cx="-104" cy="0" r="4" fill="#9a6700"><animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/></circle>
+  <text x="-94" y="4.5" font-family="'Segoe UI', -apple-system, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#1f2328">Em construção</text>
+</g>
+<path d="M26 107 l4 4 l8 -8" fill="none" stroke="#1f6feb" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="46" y="112" font-family="'Segoe UI', -apple-system, Roboto, Helvetica, Arial, sans-serif" font-size="13.5" fill="#1f2328">Consultas, exames e resultados ligados</text>
+<path d="M26 131 l4 4 l8 -8" fill="none" stroke="#1f6feb" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="46" y="136" font-family="'Segoe UI', -apple-system, Roboto, Helvetica, Arial, sans-serif" font-size="13.5" fill="#1f2328">Medicamentos, agenda e documentos</text>
+<path d="M26 155 l4 4 l8 -8" fill="none" stroke="#1f6feb" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="46" y="160" font-family="'Segoe UI', -apple-system, Roboto, Helvetica, Arial, sans-serif" font-size="13.5" fill="#1f2328">Backup e restauração dos dados</text>
+<rect x="24" y="178" width="70" height="22" rx="11" fill="#f3f6fb" stroke="#d5dcea"/>
+<text x="59" y="193" text-anchor="middle" font-family="'Fira Code', 'JetBrains Mono', Consolas, monospace" font-size="11" fill="#57606a">Windows</text>
+<rect x="102.4" y="178" width="56" height="22" rx="11" fill="#f3f6fb" stroke="#d5dcea"/>
+<text x="130" y="193" text-anchor="middle" font-family="'Fira Code', 'JetBrains Mono', Consolas, monospace" font-size="11" fill="#57606a">macOS</text>
+<rect x="166.4" y="178" width="70" height="22" rx="11" fill="#f3f6fb" stroke="#d5dcea"/>
+<text x="202" y="193" text-anchor="middle" font-family="'Fira Code', 'JetBrains Mono', Consolas, monospace" font-size="11" fill="#57606a">Desktop</text>
+<g clip-path="url(#barra)">
+  <rect x="24" y="214" width="392" height="8" fill="#f3f6fb"/>
+  <rect x="-140" y="214" width="140" height="8" rx="4" fill="url(#gb)">
+    <animate attributeName="x" values="-140;416" dur="2.6s" repeatCount="indefinite"/>
+  </rect>
+</g>
+<text x="24" y="240" font-family="'Segoe UI', -apple-system, Roboto, Helvetica, Arial, sans-serif" font-size="11" fill="#57606a">Repositório privado · em desenvolvimento ativo</text>
+</svg>

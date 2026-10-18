@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300" role="img" aria-labelledby="t d">
+<title id="t">Como uso IA no desenvolvimento</title>
+<desc id="d">Fluxo: ideia, IA (ChatGPT, Claude e Gemini), código, testes no GitHub Actions e publicação, com automações em n8n e APIs de IA conectando as etapas.</desc>
+<defs>
+  <linearGradient id="fundo" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#141b2d"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+  <linearGradient id="borda" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#4478e3"/><stop offset="1" stop-color="#f778ba"/></linearGradient>
+  <filter id="brilho" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4"/></filter>
+</defs>
+<rect width="900" height="300" rx="18" fill="url(#fundo)" stroke="#2d3a55"/>
+<text x="450.0" y="38" text-anchor="middle" font-family="'Segoe UI', -apple-system, Roboto, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#e6edf3">Como uso IA no desenvolvimento</text>
+<line x1="172.0" y1="120.0" x2="193.0" y2="120.0" stroke="#2d3a55" stroke-width="2" stroke-dasharray="4 4"/>
+<path d="M190.0 115.0 L196.0 120.0 L190.0 125.0" fill="none" stroke="#8b98ad" stroke-width="2" stroke-linecap="round"/>
+<circle r="4" cx="170.0" cy="120.0" opacity="0" fill="#7aa2f7">
+  <animate attributeName="cx" values="170.0;193.0" dur="1.20s" begin="0.00s;anim0.end+4.80s" id="anim0" fill="freeze"/>
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="1.20s" begin="0.00s;anim0.end+4.80s" fill="freeze"/>
+</circle>
+<line x1="349.0" y1="120.0" x2="370.0" y2="120.0" stroke="#2d3a55" stroke-width="2" stroke-dasharray="4 4"/>
+<path d="M367.0 115.0 L373.0 120.0 L367.0 125.0" fill="none" stroke="#8b98ad" stroke-width="2" stroke-linecap="round"/>
+<circle r="4" cx="347.0" cy="120.0" opacity="0" fill="#7aa2f7">
+  <animate attributeName="cx" values="347.0;370.0" dur="1.20s" begin="1.20s;anim1.end+4.80s" id="anim1" fill="freeze"/>
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="1.20s" begin="1.20s;anim1.end+4.80s" fill="freeze"/>
+</circle>
+<line x1="526.0" y1="120.0" x2="547.0" y2="120.0" stroke="#2d3a55" stroke-width="2" stroke-dasharray="4 4"/>
+<path d="M544.0 115.0 L550.0 120.0 L544.0 125.0" fill="none" stroke="#8b98ad" stroke-width="2" stroke-linecap="round"/>
+<circle r="4" cx="524.0" cy="120.0" opacity="0" fill="#7aa2f7">
+  <animate attributeName="cx" values="524.0;547.0" dur="1.20s" begin="2.40s;anim2.end+4.80s" id="anim2" fill="freeze"/>
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="1.20s" begin="2.40s;anim2.end+4.80s" fill="freeze"/>
+</circle>
+<line x1="703.0" y1="120.0" x2="724.0" y2="120.0" stroke="#2d3a55" stroke-width="2" stroke-dasharray="4 4"/>
+<path d="M721.0 115.0 L727.0 120.0 L721.0 125.0" fill="none" stroke="#8b98ad" stroke-width="2" stroke-linecap="round"/>
+<circle r="4" cx="701.0" cy="120.0" opacity="0" fill="#7aa2f7">
+  <animate attributeName="cx" values="701.0;724.0" dur="1.20s" begin="3.60s;anim3.end+4.80s" id="anim3" fill="freeze"/>
+  <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="1.20s" begin="3.60s;anim3.end+4.80s" fill="freeze"/>
+</circle>
+<g>
+<rect x="22.0" y="64" width="148" height="112" rx="14" fill="none" stroke="#4478e3" stroke-width="3" filter="url(#brilho)" opacity="0">
+  <animate attributeName="opacity" values="0;0.9;0" dur="1.2s" begin="0.00s;0.00s+6.0s;0.00s+12.0s;0.00s+18.0s;0.00s+24.0s;0.00s+30.0s;0.00s+36.0s;0.00s+42.0s;0.00s+48.0s;0.00s+54.0s"/>
+</rect>
+<rect x="22.0" y="64" width="148" height="112" rx="14" fill="#1a2233" stroke="#2d3a55" stroke-width="1.2"/>
+<text x="96.0" y="104" text-anchor="middle" font-size="26">💡</text>
+<text x="96.0" y="134" text-anchor="middle" font-family="'Segoe UI', -apple-system, Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#e6edf3">Ideia</text>
+<text x="96.0" y="156" text-anchor="middle" font-family="'Segoe UI', -apple-system, Roboto, Helvetica, Arial, sans-serif" font-size="11" fill="#8b98ad">o problema a resolver</text>
+</g>
+<g>
+<rect x="199.0" y="64" width="148" height="112" rx="14" fill="none" stroke="#4478e3" stroke-width="3" filter="url(#brilho)" opacity="0">
+  <animate attributeName="opacity" values="0;0.9;0" dur="1.2s" begin="1.20s;1.20s+6.0s;1.20s+12.0s;1.20s+18.0s;1.20s+24.0s;1.20s+30.0s;1.20s+36.0s;1.20s+42.0s;1.20s+48.0s;1.20s+54.0s"/>
+</rect>
+<rect x="199.0" y="64" width="148" height="112" rx="14" fill="#1a2233" stroke="url(#borda)" stroke-width="2"/>
+<text x="273.0" y="104" text-anchor="middle" font-size="26">🤖</text>
+<text x="273.0" y="134" text-anchor="middle" font-family="'Segoe UI', -apple-system, Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#e6edf3">IA</text>
+<text x="273.0" y="156" text-anchor="middle" font-family="'Segoe UI', -apple-system, Roboto, Helvetica, Arial, sans-serif" font-size="11" fill="#8b98ad">ChatGPT · Claude · Gemini</text>
+</g>
+<g>
+<rect x="376.0" y="64" width="148" height="112" rx="14" fill="none" stroke="#4478e3" stroke-width="3" filter="url(#brilho)" opacity="0">
+  <animate attributeName="opacity" values="0;0.9;0" dur="1.2s" begin="2.40s;2.40s+6.0s;2.40s+12.0s;2.40s+18.0s;2.40s+24.0s;2.40s+30.0s;2.40s+36.0s;2.40s+42.0s;2.40s+48.0s;2.40s+54.0s"/>
+</rect>
+<rect x="376.0" y="64" width="148" height="112" rx="14" fill="#1a2233" stroke="#2d3a55" stroke-width="1.2"/>
+<text x="450.0" y="104" text-anchor="middle" font-size="26">⌨️</text>
+<text x="450.0" y="134" text-anchor="middle" font-family="'Segoe UI', -apple-system, Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#e6edf3">Código</text>
+<text x="450.0" y="156" text-anchor="middle" font-family="'Segoe UI', -apple-system, Roboto, Helvetica, Arial, sans-serif" font-size="11" fill="#8b98ad">HTML · CSS · JS · Python</text>
+</g>
+<g>
+<rect x="553.0" y="64" width="148" height="112" rx="14" fill="none" stroke="#4478e3" stroke-width="3" filter="url(#brilho)" opacity="0">
+  <animate attributeName="opacity" values="0;0.9;0" dur="1.2s" begin="3.60s;3.60s+6.0s;3.60s+12.0s;3.60s+18.0s;3.60s+24.0s;3.60s+30.0s;3.60s+36.0s;3.60s+42.0s;3.60s+48.0s;3.60s+54.0s"/>
+</rect>
+<rect x="553.0" y="64" width="148" height="112" rx="14" fill="#1a2233" stroke="#2d3a55" stroke-width="1.2"/>
+<text x="627.0" y="104" text-anchor="middle" font-size="26">✅</text>
+<text x="627.0" y="134" text-anchor="middle" font-family="'Segoe UI', -apple-system, Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#e6edf3">Testes</text>
+<text x="627.0" y="156" text-anchor="middle" font-family="'Segoe UI', -apple-system, Roboto, Helvetica, Arial, sans-serif" font-size="11" fill="#8b98ad">GitHub Actions</text>
+</g>
+<g>
+<rect x="730.0" y="64" width="148" height="112" rx="14" fill="none" stroke="#4478e3" stroke-width="3" filter="url(#brilho)" opacity="0">
+  <animate attributeName="opacity" values="0;0.9;0" dur="1.2s" begin="4.80s;4.80s+6.0s;4.80s+12.0s;4.80s+18.0s;4.80s+24.0s;4.80s+30.0s;4.80s+36.0s;4.80s+42.0s;4.80s+48.0s;4.80s+54.0s"/>
+</rect>
+<rect x="730.0" y="64" width="148" height="112" rx="14" fill="#1a2233" stroke="#2d3a55" stroke-width="1.2"/>
+<text x="804.0" y="104" text-anchor="middle" font-size="26">🚀</text>
+<text x="804.0" y="134" text-anchor="middle" font-family="'Segoe UI', -apple-system, Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#e6edf3">Publicação</text>
+<text x="804.0" y="156" text-anchor="middle" font-family="'Segoe UI', -apple-system, Roboto, Helvetica, Arial, sans-serif" font-size="11" fill="#8b98ad">Pages e instaladores</text>
+</g>
+<rect x="22.0" y="210" width="856.0" height="54" rx="12" fill="#202a3e" stroke="#2d3a55"/>
+<line x1="96.0" y1="176" x2="96.0" y2="210" stroke="#f778ba" stroke-width="1.5" stroke-dasharray="3 4" opacity="0.7"><animate attributeName="stroke-dashoffset" values="0;-14" dur="1.4s" repeatCount="indefinite"/></line>
+<line x1="273.0" y1="176" x2="273.0" y2="210" stroke="#f778ba" stroke-width="1.5" stroke-dasharray="3 4" opacity="0.7"><animate attributeName="stroke-dashoffset" values="0;-14" dur="1.4s" repeatCount="indefinite"/></line>
+<line x1="450.0" y1="176" x2="450.0" y2="210" stroke="#f778ba" stroke-width="1.5" stroke-dasharray="3 4" opacity="0.7"><animate attributeName="stroke-dashoffset" values="0;-14" dur="1.4s" repeatCount="indefinite"/></line>
+<line x1="627.0" y1="176" x2="627.0" y2="210" stroke="#f778ba" stroke-width="1.5" stroke-dasharray="3 4" opacity="0.7"><animate attributeName="stroke-dashoffset" values="0;-14" dur="1.4s" repeatCount="indefinite"/></line>
+<line x1="804.0" y1="176" x2="804.0" y2="210" stroke="#f778ba" stroke-width="1.5" stroke-dasharray="3 4" opacity="0.7"><animate attributeName="stroke-dashoffset" values="0;-14" dur="1.4s" repeatCount="indefinite"/></line>
+<text x="44.0" y="243" font-family="'Segoe UI', -apple-system, Roboto, Helvetica, Arial, sans-serif" font-size="14" fill="#e6edf3">⚙️</text>
+<text x="70.0" y="243" font-family="'Segoe UI', -apple-system, Roboto, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#e6edf3">Automações com <tspan fill="#f778ba">n8n</tspan> e <tspan fill="#7aa2f7">APIs de IA</tspan></text>
+<text x="856.0" y="243" text-anchor="end" font-family="'Fira Code', 'JetBrains Mono', Consolas, monospace" font-size="12" fill="#8b98ad">tarefas repetitivas no piloto automático</text>
+</svg>

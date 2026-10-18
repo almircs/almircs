@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 320" width="420" height="320" role="img" aria-labelledby="t d">
+  <title id="t">Carlos Almir programando</title>
+  <desc id="d">Ilustração de um notebook com linhas de código sendo escritas, cercado por símbolos de HTML, CSS e JavaScript.</desc>
+  <defs>
+    <linearGradient id="fundo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#eef3fc"/>
+      <stop offset="1" stop-color="#dfe8f8"/>
+    </linearGradient>
+    <linearGradient id="tela" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1b2540"/>
+      <stop offset="1" stop-color="#121a2e"/>
+    </linearGradient>
+    <linearGradient id="base" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#b7c3db"/>
+      <stop offset="1" stop-color="#97a6c4"/>
+    </linearGradient>
+    <radialGradient id="brilho" cx="0.5" cy="0.45" r="0.5">
+      <stop offset="0" stop-color="#4478e3" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#4478e3" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="areaTela">
+      <rect x="96" y="66" width="228" height="140" rx="6"/>
+    </clipPath>
+  </defs>
+
+  <!-- fundo -->
+  <rect width="420" height="320" rx="24" fill="url(#fundo)"/>
+  <circle cx="210" cy="150" r="150" fill="url(#brilho)"/>
+
+  <!-- símbolos flutuando -->
+  <g font-family="'Fira Code', Consolas, monospace" font-weight="700">
+    <text x="40" y="78" font-size="22" fill="#e34f26">&lt;/&gt;
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" dur="4s" repeatCount="indefinite"/>
+    </text>
+    <text x="338" y="96" font-size="24" fill="#2b9af3">{ }
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 8;0 0" dur="5s" repeatCount="indefinite"/>
+    </text>
+    <text x="356" y="196" font-size="20" fill="#c9a800">JS
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="4.5s" repeatCount="indefinite"/>
+    </text>
+    <text x="22" y="186" font-size="20" fill="#5f67a3">php
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 7;0 0" dur="5.5s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g fill="#7aa2f7">
+    <circle cx="86" cy="140" r="3"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="342" cy="170" r="2.5"><animate attributeName="opacity" values="1;0.2;1" dur="3.5s" repeatCount="indefinite"/></circle>
+    <circle cx="120" cy="40" r="2"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="300" cy="44" r="2.5"><animate attributeName="opacity" values="1;0.3;1" dur="3.2s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- notebook -->
+  <rect x="86" y="56" width="248" height="160" rx="12" fill="#c9d4ea" stroke="#aab8d4" stroke-width="2"/>
+  <rect x="96" y="66" width="228" height="140" rx="6" fill="url(#tela)"/>
+  <path d="M60 220 h300 l-14 22 a8 8 0 0 1 -7 4 h-258 a8 8 0 0 1 -7 -4 z" fill="url(#base)"/>
+  <rect x="182" y="220" width="56" height="6" rx="3" fill="#c9d4ea"/>
+
+  <!-- barra da janela -->
+  <circle cx="108" cy="78" r="3.5" fill="#ff5f57"/>
+  <circle cx="120" cy="78" r="3.5" fill="#febc2e"/>
+  <circle cx="132" cy="78" r="3.5" fill="#28c840"/>
+  <text x="210" y="81" font-family="'Fira Code', Consolas, monospace" font-size="8" fill="#6b7a99" text-anchor="middle">index.html</text>
+
+  <!-- código sendo digitado -->
+  <g clip-path="url(#areaTela)">
+    <g stroke-linecap="round" stroke-width="5">
+      <!-- cada linha cresce em sequência e o ciclo recomeça -->
+      <line x1="108" y1="98" x2="108" y2="98" stroke="#e34f26">
+        <animate attributeName="x2" values="108;160;160;160" keyTimes="0;0.08;0.92;1" dur="8s" repeatCount="indefinite"/>
+      </line>
+      <line x1="120" y1="112" x2="120" y2="112" stroke="#7aa2f7">
+        <animate attributeName="x2" values="120;120;200;200;120" keyTimes="0;0.08;0.18;0.92;1" dur="8s" repeatCount="indefinite"/>
+      </line>
+      <line x1="132" y1="126" x2="132" y2="126" stroke="#9ece6a">
+        <animate attributeName="x2" values="132;132;250;250;132" keyTimes="0;0.18;0.3;0.92;1" dur="8s" repeatCount="indefinite"/>
+      </line>
+      <line x1="132" y1="140" x2="132" y2="140" stroke="#c9a800">
+        <animate attributeName="x2" values="132;132;214;214;132" keyTimes="0;0.3;0.4;0.92;1" dur="8s" repeatCount="indefinite"/>
+      </line>
+      <line x1="144" y1="154" x2="144" y2="154" stroke="#bb9af7">
+        <animate attributeName="x2" values="144;144;290;290;144" keyTimes="0;0.4;0.54;0.92;1" dur="8s" repeatCount="indefinite"/>
+      </line>
+      <line x1="132" y1="168" x2="132" y2="168" stroke="#2b9af3">
+        <animate attributeName="x2" values="132;132;196;196;132" keyTimes="0;0.54;0.64;0.92;1" dur="8s" repeatCount="indefinite"/>
+      </line>
+      <line x1="120" y1="182" x2="120" y2="182" stroke="#7aa2f7">
+        <animate attributeName="x2" values="120;120;176;176;120" keyTimes="0;0.64;0.72;0.92;1" dur="8s" repeatCount="indefinite"/>
+      </line>
+      <line x1="108" y1="196" x2="108" y2="196" stroke="#e34f26">
+        <animate attributeName="x2" values="108;108;164;164;108" keyTimes="0;0.72;0.8;0.92;1" dur="8s" repeatCount="indefinite"/>
+      </line>
+    </g>
+    <!-- cursor piscando -->
+    <rect x="300" y="188" width="3" height="14" fill="#e8ecf3">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- assinatura -->
+  <text x="210" y="290" font-family="'Fira Code', Consolas, monospace" font-size="15" font-weight="600" fill="#1f2a44" text-anchor="middle">almircs<tspan fill="#4478e3">.dev</tspan></text>
+</svg>

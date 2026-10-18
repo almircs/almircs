@@ -10,7 +10,11 @@
 
 ---
 
-<img align="right" width="340" src="./assets/apresentacao.svg" alt="Ilustração de um notebook com código sendo escrito"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/apresentacao-escuro.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/apresentacao-claro.svg">
+  <img align="right" width="340" src="./assets/apresentacao-claro.svg" alt="Ilustração de um notebook com código sendo escrito"/>
+</picture>
 
 ### 👋 Olá, eu sou o Carlos!
 
@@ -20,6 +24,45 @@ Técnico em eletrônica com **mais de 30 anos** em manutenção e automação in
 - 💬 [Instagram](https://www.instagram.com/almircs.dev/) · [YouTube](https://www.youtube.com/channel/UCsoIAs_geL01KE6Ov2DIhOg)
 
 <br clear="right"/>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/terminal-escuro.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/terminal-claro.svg">
+  <img width="100%" src="./assets/terminal-claro.svg" alt="Terminal: whoami — Carlos Almir, técnico em eletrônica que virou dev; 30+ anos com CLP Siemens, robôs ABB e KUKA e equipamentos biomédicos; estudando HTML, CSS, JavaScript, Python, Git, Linux, APIs e IA; ferramentas de IA: ChatGPT, Claude, Gemini, n8n e APIs de IA; construindo Finora e Helyx"/>
+</picture>
+
+</div>
+
+### 🤖 IA no meu dia a dia
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/fluxo-ia-escuro.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/fluxo-ia-claro.svg">
+  <img width="100%" src="./assets/fluxo-ia-claro.svg" alt="Como uso IA no desenvolvimento: ideia, IA (ChatGPT, Claude e Gemini), código, testes no GitHub Actions e publicação, com automações em n8n e APIs de IA"/>
+</picture>
+
+</div>
+
+### 🛠️ Em construção
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/finora-escuro.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/finora-claro.svg">
+  <img width="49%" src="./assets/finora-claro.svg" alt="Finora — controle de gastos pessoal para Windows e macOS, em construção"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/helyx-escuro.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/helyx-claro.svg">
+  <img width="49%" src="./assets/helyx-claro.svg" alt="Helyx — gestão pessoal de saúde para Windows e macOS, em construção"/>
+</picture>
+
+</div>
 
 ### 📋 Dados
 
@@ -135,17 +178,40 @@ Técnico em eletrônica com **mais de 30 anos** em manutenção e automação in
 
 </div>
 
-
 ### 🚀 Projetos em destaque
 
 <div align="center">
 
-<a href="https://github.com/almircs/Jogo-da-Velha"><img src="https://github-readme-stats.vercel.app/api/pin/?username=almircs&repo=Jogo-da-Velha&theme=dark&hide_border=true&locale=pt-br" alt="Jogo da Velha"/></a>
-<a href="https://github.com/almircs/Freeway"><img src="https://github-readme-stats.vercel.app/api/pin/?username=almircs&repo=Freeway&theme=dark&hide_border=true&locale=pt-br" alt="Freeway"/></a>
-<a href="https://github.com/almircs/Aluramidi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=almircs&repo=Aluramidi&theme=dark&hide_border=true&locale=pt-br" alt="Alura MIDI"/></a>
-<a href="https://github.com/almircs/Flex-e-Grid"><img src="https://github-readme-stats.vercel.app/api/pin/?username=almircs&repo=Flex-e-Grid&theme=dark&hide_border=true&locale=pt-br" alt="HZC — Flexbox e Grid"/></a>
-<a href="https://github.com/almircs/Barbearia"><img src="https://github-readme-stats.vercel.app/api/pin/?username=almircs&repo=Barbearia&theme=dark&hide_border=true&locale=pt-br" alt="Barbearia Alura"/></a>
-<a href="https://github.com/almircs/HTML-CSS"><img src="https://github-readme-stats.vercel.app/api/pin/?username=almircs&repo=HTML-CSS&theme=dark&hide_border=true&locale=pt-br" alt="HTML5 e CSS3"/></a>
+<a href="https://github.com/almircs/Jogo-da-Velha"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=almircs&repo=Jogo-da-Velha&theme=dark&hide_border=true&locale=pt-br">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=almircs&repo=Jogo-da-Velha&theme=default&hide_border=false&locale=pt-br">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=almircs&repo=Jogo-da-Velha&theme=default&hide_border=false&locale=pt-br" alt="Jogo da Velha"/>
+</picture></a>
+<a href="https://github.com/almircs/Freeway"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=almircs&repo=Freeway&theme=dark&hide_border=true&locale=pt-br">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=almircs&repo=Freeway&theme=default&hide_border=false&locale=pt-br">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=almircs&repo=Freeway&theme=default&hide_border=false&locale=pt-br" alt="Freeway"/>
+</picture></a>
+<a href="https://github.com/almircs/Aluramidi"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=almircs&repo=Aluramidi&theme=dark&hide_border=true&locale=pt-br">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=almircs&repo=Aluramidi&theme=default&hide_border=false&locale=pt-br">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=almircs&repo=Aluramidi&theme=default&hide_border=false&locale=pt-br" alt="Alura MIDI"/>
+</picture></a>
+<a href="https://github.com/almircs/Flex-e-Grid"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=almircs&repo=Flex-e-Grid&theme=dark&hide_border=true&locale=pt-br">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=almircs&repo=Flex-e-Grid&theme=default&hide_border=false&locale=pt-br">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=almircs&repo=Flex-e-Grid&theme=default&hide_border=false&locale=pt-br" alt="HZC — Flexbox e Grid"/>
+</picture></a>
+<a href="https://github.com/almircs/Barbearia"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=almircs&repo=Barbearia&theme=dark&hide_border=true&locale=pt-br">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=almircs&repo=Barbearia&theme=default&hide_border=false&locale=pt-br">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=almircs&repo=Barbearia&theme=default&hide_border=false&locale=pt-br" alt="Barbearia Alura"/>
+</picture></a>
+<a href="https://github.com/almircs/HTML-CSS"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=almircs&repo=HTML-CSS&theme=dark&hide_border=true&locale=pt-br">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=almircs&repo=HTML-CSS&theme=default&hide_border=false&locale=pt-br">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=almircs&repo=HTML-CSS&theme=default&hide_border=false&locale=pt-br" alt="HTML5 e CSS3"/>
+</picture></a>
 
 **Teste online:**
 [Jogo da Velha](https://almircs.github.io/Jogo-da-Velha/) ·
@@ -161,9 +227,21 @@ Técnico em eletrônica com **mais de 30 anos** em manutenção e automação in
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=almircs&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br&card_width=495" alt="Estatísticas do GitHub"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=almircs&theme=dark&hide_border=true&locale=pt_BR&card_width=495&card_height=195" alt="Sequência de contribuições"/>
-<img width="98.6%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almircs&layout=compact&langs_count=8&theme=dark&hide_border=true&locale=pt-br&card_width=1000" alt="Linguagens mais usadas"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=almircs&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br&card_width=495">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=almircs&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true&locale=pt-br&card_width=495">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=almircs&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true&locale=pt-br&card_width=495" alt="Estatísticas do GitHub"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=almircs&theme=dark&hide_border=true&locale=pt_BR&card_width=495&card_height=195">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=almircs&theme=default&hide_border=false&locale=pt_BR&card_width=495&card_height=195">
+  <img width="49%" src="https://streak-stats.demolab.com?user=almircs&theme=default&hide_border=false&locale=pt_BR&card_width=495&card_height=195" alt="Sequência de contribuições"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=almircs&layout=compact&langs_count=8&theme=dark&hide_border=true&locale=pt-br&card_width=1000">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=almircs&layout=compact&langs_count=8&theme=default&hide_border=false&locale=pt-br&card_width=1000">
+  <img width="98.6%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almircs&layout=compact&langs_count=8&theme=default&hide_border=false&locale=pt-br&card_width=1000" alt="Linguagens mais usadas"/>
+</picture>
 
 </div>
 
