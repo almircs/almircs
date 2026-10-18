@@ -161,10 +161,9 @@ Técnico em eletrônica com **mais de 30 anos** em manutenção e automação in
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=almircs&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas do GitHub"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almircs&layout=compact&langs_count=7&theme=dark&hide_border=true&locale=pt-br" alt="Linguagens mais usadas"/>
-
-<img src="https://streak-stats.demolab.com?user=almircs&theme=dark&hide_border=true&locale=pt_BR" alt="Sequência de contribuições"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=almircs&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br&card_width=495" alt="Estatísticas do GitHub"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=almircs&theme=dark&hide_border=true&locale=pt_BR&card_width=495&card_height=195" alt="Sequência de contribuições"/>
+<img width="98.6%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almircs&layout=compact&langs_count=8&theme=dark&hide_border=true&locale=pt-br&card_width=1000" alt="Linguagens mais usadas"/>
 
 <br/><br/>
 
