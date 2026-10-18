@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 250" width="440" height="250" role="img" aria-labelledby="t d">
 <title id="t">Finora — em construção</title>
-<desc id="d">Controle de gastos pessoal. Lançamentos por categoria com ícones. Importa o backup do Gastos Diários. Temas claro e escuro. Windows, macOS, Desktop.</desc>
+<desc id="d">Controle de gastos pessoal. Lançamentos por categoria com ícones. Importa e exporta backups. Temas claro e escuro. Windows, macOS, Desktop.</desc>
 <defs>
   <linearGradient id="gi" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2ea043"/><stop offset="1" stop-color="#56d364"/></linearGradient>
   <linearGradient id="gb" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2ea043"/><stop offset="1" stop-color="#56d364"/></linearGradient>
@@ -28,7 +28,7 @@
 <path d="M26 107 l4 4 l8 -8" fill="none" stroke="#2ea043" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
 <text x="46" y="112" font-family="'Segoe UI', -apple-system, Roboto, Helvetica, Arial, sans-serif" font-size="13.5" fill="#e6edf3">Lançamentos por categoria com ícones</text>
 <path d="M26 131 l4 4 l8 -8" fill="none" stroke="#2ea043" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
-<text x="46" y="136" font-family="'Segoe UI', -apple-system, Roboto, Helvetica, Arial, sans-serif" font-size="13.5" fill="#e6edf3">Importa o backup do Gastos Diários</text>
+<text x="46" y="136" font-family="'Segoe UI', -apple-system, Roboto, Helvetica, Arial, sans-serif" font-size="13.5" fill="#e6edf3">Importa e exporta backups</text>
 <path d="M26 155 l4 4 l8 -8" fill="none" stroke="#2ea043" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
 <text x="46" y="160" font-family="'Segoe UI', -apple-system, Roboto, Helvetica, Arial, sans-serif" font-size="13.5" fill="#e6edf3">Temas claro e escuro</text>
 <rect x="24" y="178" width="70" height="22" rx="11" fill="#202a3e" stroke="#2d3a55"/>
