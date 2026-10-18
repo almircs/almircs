@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 250" width="440" height="250" role="img" aria-labelledby="t d">
+<title id="t">Finora — em construção</title>
+<desc id="d">Controle de gastos pessoal. Lançamentos por categoria com ícones. Importa o backup do Gastos Diários. Temas claro e escuro. Windows, macOS, Desktop.</desc>
+<defs>
+  <linearGradient id="gi" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2ea043"/><stop offset="1" stop-color="#56d364"/></linearGradient>
+  <linearGradient id="gb" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2ea043"/><stop offset="1" stop-color="#56d364"/></linearGradient>
+  <linearGradient id="brilho" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset="0.5" stop-color="#fff" stop-opacity="0.45"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+  </linearGradient>
+  <clipPath id="barra"><rect x="24" y="214" width="392" height="8" rx="4"/></clipPath>
+  <clipPath id="cartao"><rect x="0.5" y="0.5" width="439" height="249" rx="16"/></clipPath>
+</defs>
+<rect x="0.5" y="0.5" width="439" height="249" rx="16" fill="#1a2233" stroke="#2d3a55"/>
+<rect x="0" y="0" width="440" height="4" fill="url(#gb)" clip-path="url(#cartao)"/>
+<g transform="translate(24,24)">
+  <rect width="56" height="56" rx="14" fill="url(#gi)"/>
+  <rect x="13" y="30" width="7" height="13" rx="2" fill="#fff" opacity="0.85"/>
+  <rect x="24.5" y="22" width="7" height="21" rx="2" fill="#fff" opacity="0.92"/>
+  <rect x="36" y="13" width="7" height="30" rx="2" fill="#fff"/>
+</g>
+<text x="94" y="50" font-family="'Segoe UI', -apple-system, Roboto, Helvetica, Arial, sans-serif" font-size="22" font-weight="800" fill="#e6edf3">Finora</text>
+<text x="94" y="72" font-family="'Segoe UI', -apple-system, Roboto, Helvetica, Arial, sans-serif" font-size="13" fill="#8b98ad">Controle de gastos pessoal</text>
+<g transform="translate(416,30)">
+  <rect x="-118" y="-12" width="118" height="24" rx="12" fill="#202a3e" stroke="#2d3a55"/>
+  <circle cx="-104" cy="0" r="4" fill="#e3b341"><animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/></circle>
+  <text x="-94" y="4.5" font-family="'Segoe UI', -apple-system, Roboto, Helvetica, Arial, sans-serif" font-size="11.5" font-weight="600" fill="#e6edf3">Em construção</text>
+</g>
+<path d="M26 107 l4 4 l8 -8" fill="none" stroke="#2ea043" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="46" y="112" font-family="'Segoe UI', -apple-system, Roboto, Helvetica, Arial, sans-serif" font-size="13.5" fill="#e6edf3">Lançamentos por categoria com ícones</text>
+<path d="M26 131 l4 4 l8 -8" fill="none" stroke="#2ea043" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="46" y="136" font-family="'Segoe UI', -apple-system, Roboto, Helvetica, Arial, sans-serif" font-size="13.5" fill="#e6edf3">Importa o backup do Gastos Diários</text>
+<path d="M26 155 l4 4 l8 -8" fill="none" stroke="#2ea043" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="46" y="160" font-family="'Segoe UI', -apple-system, Roboto, Helvetica, Arial, sans-serif" font-size="13.5" fill="#e6edf3">Temas claro e escuro</text>
+<rect x="24" y="178" width="70" height="22" rx="11" fill="#202a3e" stroke="#2d3a55"/>
+<text x="59" y="193" text-anchor="middle" font-family="'Fira Code', 'JetBrains Mono', Consolas, monospace" font-size="11" fill="#8b98ad">Windows</text>
+<rect x="102.4" y="178" width="56" height="22" rx="11" fill="#202a3e" stroke="#2d3a55"/>
+<text x="130" y="193" text-anchor="middle" font-family="'Fira Code', 'JetBrains Mono', Consolas, monospace" font-size="11" fill="#8b98ad">macOS</text>
+<rect x="166.4" y="178" width="70" height="22" rx="11" fill="#202a3e" stroke="#2d3a55"/>
+<text x="202" y="193" text-anchor="middle" font-family="'Fira Code', 'JetBrains Mono', Consolas, monospace" font-size="11" fill="#8b98ad">Desktop</text>
+<g clip-path="url(#barra)">
+  <rect x="24" y="214" width="392" height="8" fill="#202a3e"/>
+  <rect x="-140" y="214" width="140" height="8" rx="4" fill="url(#gb)">
+    <animate attributeName="x" values="-140;416" dur="2.6s" repeatCount="indefinite"/>
+  </rect>
+</g>
+<text x="24" y="240" font-family="'Segoe UI', -apple-system, Roboto, Helvetica, Arial, sans-serif" font-size="11" fill="#8b98ad">Repositório privado · em desenvolvimento ativo</text>
+</svg>
