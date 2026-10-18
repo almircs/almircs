@@ -14,32 +14,12 @@
 
 ### 👋 Olá, eu sou o Carlos!
 
-Em 1992, com um ferro de solda na mão, eu consertava televisores numa lojinha de bairro em Belo Horizonte. Era o primeiro capítulo de uma carreira de mais de 30 anos, boa parte dela dentro de algumas das operações industriais mais exigentes do Brasil.
+Técnico em eletrônica com **mais de 30 anos** em manutenção e automação industrial — de CLPs Siemens e robôs ABB e KUKA a equipamentos biomédicos. Desde 2022 estudo programação e hoje construo meus próprios apps web e desktop.
 
-Fui eletricista de manutenção e encarregado de produção na **Coca-Cola FEMSA**, liderando equipes de até 77 pessoas. Trabalhei com robôs **ABB** e **KUKA**, redes **Profibus** e **Ethernet**, sistemas supervisórios e **CLPs Siemens**, e fui treinado numa das plantas mais automatizadas da empresa na América Latina, em Ixtacomitán, no México. Hoje, no **Sesc em Minas Gerais**, cuido de equipamentos biomédicos, elétricos e eletrônicos das unidades móveis de saúde que atendem milhares de pessoas pelo estado.
-
-Nos últimos anos resolvi voltar a estudar como principiante: lógica de programação, HTML, CSS, Git, Linux e APIs. Não por obrigação, mas por curiosidade — e porque o futuro da manutenção industrial também passa por software. **Não estou parando, estou mudando de engrenagem.**
-
-- 🔭 Construindo projetos pessoais de **finanças** e **saúde**, com versões web e desktop
-- 💬 Me encontre no [LinkedIn](https://www.linkedin.com/in/carlos-almir/), no [Instagram](https://www.instagram.com/almircs.dev/) e no [YouTube](https://www.youtube.com/channel/UCsoIAs_geL01KE6Ov2DIhOg)
+- 🔭 Projetos pessoais de **finanças** e **saúde**
+- 💬 [LinkedIn](https://www.linkedin.com/in/carlos-almir/) · [Instagram](https://www.instagram.com/almircs.dev/) · [YouTube](https://www.youtube.com/channel/UCsoIAs_geL01KE6Ov2DIhOg)
 
 <br clear="right"/>
-
-### 🧭 Trajetória
-
-| Período | Onde | O que fiz |
-|---|---|---|
-| 2015 – hoje | **Sesc em Minas Gerais** | Técnico de Manutenção: equipamentos biomédicos, elétricos e eletrônicos das unidades móveis OdontoSESC, Saúde Mulher e MedSESC |
-| 2007 – 2015 | **Coca-Cola FEMSA** | Eletricista de manutenção industrial: enchedoras, inspeção Krones e Heuft, robôs ABB e KUKA, IHMs, supervisórios, redes Profibus DP, ASi e Ethernet |
-| 2003 – 2007 | **Ematex Têxtil** | Técnico em elétrica industrial: automação, eletrônica e grupos geradores |
-| 1998 – 2003 | **Coca-Cola FEMSA** | Eletricista de manutenção e encarregado de produção, à frente de 77 pessoas em xaroparia, sopro e envase |
-| 1992 – 1997 | **RPM** e **Micro&Video Eletrônica** | Técnico em eletrônica: televisores, som, segurança eletrônica e painéis luminosos |
-| 2022 – hoje | **Estudos em programação** | Alura, Origamid, Curso em Vídeo e projetos próprios aqui no GitHub |
-
-### 🎓 Formação
-
-- **Técnico em Eletrônica e Eletrotécnica** — SENAI BH CECOTEG (1996 – 1997)
-- **Técnico em Eletrônica** — Escola Técnica de Eletrônica Landel
 
 ### 📋 Dados
 
