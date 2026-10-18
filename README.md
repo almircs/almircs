@@ -13,7 +13,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/apresentacao-escuro.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/apresentacao-claro.svg">
-  <img align="right" width="340" src="./assets/apresentacao-claro.svg" alt="Ilustração de um notebook com código sendo escrito"/>
+  <img align="right" width="380" src="./assets/apresentacao-claro.svg" alt="Ilustração de um notebook com código sendo escrito"/>
 </picture>
 
 ### 👋 Olá, eu sou o Carlos!
@@ -30,7 +30,7 @@ Técnico em eletrônica com **mais de 30 anos** em manutenção e automação in
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/terminal-escuro.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/terminal-claro.svg">
-  <img width="100%" src="./assets/terminal-claro.svg" alt="Terminal: whoami — Carlos Almir, técnico em eletrônica que virou dev; 30+ anos com CLP Siemens, robôs ABB e KUKA e equipamentos biomédicos; estudando HTML, CSS, JavaScript, Python, Git, Linux, APIs e IA; ferramentas de IA: ChatGPT, Claude, Gemini, n8n e APIs de IA; construindo Finora e Helyx"/>
+  <img width="100%" src="./assets/terminal-claro.svg" alt="Terminal: whoami — Carlos Almir, técnico em eletrônica, automação e robótica; 30+ anos com CLP Siemens, robôs ABB e KUKA e equipamentos biomédicos; estudando HTML, CSS, JavaScript, Python, Git, Linux, APIs e IA; ferramentas de IA: ChatGPT, Claude, Gemini, n8n e APIs de IA; construindo Finora e Helyx"/>
 </picture>
 
 </div>
