@@ -17,7 +17,7 @@
 Técnico em eletrônica com **mais de 30 anos** em manutenção e automação industrial — de CLPs Siemens e robôs ABB e KUKA a equipamentos biomédicos. Desde 2022 estudo programação e hoje construo meus próprios apps web e desktop.
 
 - 🔭 Projetos pessoais de **finanças** e **saúde**
-- 💬 [LinkedIn](https://www.linkedin.com/in/carlos-almir/) · [Instagram](https://www.instagram.com/almircs.dev/) · [YouTube](https://www.youtube.com/channel/UCsoIAs_geL01KE6Ov2DIhOg)
+- 💬 [Instagram](https://www.instagram.com/almircs.dev/) · [YouTube](https://www.youtube.com/channel/UCsoIAs_geL01KE6Ov2DIhOg)
 
 <br clear="right"/>
 
@@ -122,13 +122,11 @@ Técnico em eletrônica com **mais de 30 anos** em manutenção e automação in
       <img src="https://img.shields.io/badge/1-Origamid-B04DDB?style=for-the-badge&labelColor=4478e3" alt="1 certificado Origamid"/>
       <img src="https://img.shields.io/badge/1-Data_Science_Academy-1A73E8?style=for-the-badge&labelColor=4478e3" alt="1 certificado Data Science Academy"/>
       <img src="https://img.shields.io/badge/Siemens_STEP_7-Simatec-009999?style=for-the-badge&labelColor=4478e3" alt="Siemens STEP 7 pela Simatec"/>
-      <br/><sub>Lista completa com links de verificação logo abaixo da tabela.</sub>
     </td>
   </tr>
   <tr>
     <td><b>Contato</b></td>
     <td>
-      <a href="https://www.linkedin.com/in/carlos-almir/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
       <a href="https://www.instagram.com/almircs.dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
       <a href="https://www.youtube.com/channel/UCsoIAs_geL01KE6Ov2DIhOg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
     </td>
@@ -137,42 +135,6 @@ Técnico em eletrônica com **mais de 30 anos** em manutenção e automação in
 
 </div>
 
-<details>
-<summary><b>📜 Todos os certificados</b></summary>
-<br/>
-
-**Programação**
-
-| Curso | Instituição | Emissão |
-|---|---|---|
-| [Formação Iniciante em Programação](https://cursos.alura.com.br/degree/certificate/38e8e925-a557-454a-be4f-d15a3a91bba1) | Alura | nov. 2022 |
-| [CSS: dispondo elementos com Flexbox e Grid](https://cursos.alura.com.br/certificate/a213339a-b63f-4712-9c44-aefe7a34488b) | Alura | nov. 2022 |
-| [Git e GitHub: repositório, commit e versões](https://cursos.alura.com.br/certificate/001da619-52d9-4d38-acc9-c2dc0e869a9c) | Alura | nov. 2022 |
-| [Linux I: conhecendo e utilizando o terminal](https://cursos.alura.com.br/certificate/9017e501-3207-40db-abfd-862ee7c14ea4) | Alura | nov. 2022 |
-| [WordPress REST API Dogs](https://origamid.com/certificate/2c4cb13b) | Origamid | nov. 2022 |
-| [Arquitetura de computadores: por trás de como seu programa funciona](https://cursos.alura.com.br/certificate/7e96aff8-5704-484a-a27c-88169f6a7a76) | Alura | out. 2022 |
-| [Lógica de programação: laços e listas com JavaScript](https://cursos.alura.com.br/certificate/8dad7e0d-68e7-4648-a52a-a7ee4f6cbee6) | Alura | out. 2022 |
-| [Lógica de programação: o jogo Pong com JavaScript](https://cursos.alura.com.br/certificate/32e63cdc-a37e-4556-bbb6-60d8f9a42307) | Alura | out. 2022 |
-| [HTML5 e CSS3 parte 4: avançando no CSS](https://cursos.alura.com.br/certificate/84d28ef8-42f5-4b68-9619-95522aae8ac6) | Alura | out. 2022 |
-| [HTML5 e CSS3 parte 3: formulários e tabelas](https://cursos.alura.com.br/certificate/416a00f7-ad9c-457a-9b72-c96ca6e23791) | Alura | out. 2022 |
-| [HTML5 e CSS3 parte 2: posicionamento, listas e navegação](https://cursos.alura.com.br/certificate/d93bcc21-1a8d-4f22-9c05-328a5844d319) | Alura | set. 2022 |
-| [HTML5 e CSS3 parte 1: crie uma página da Web](https://cursos.alura.com.br/certificate/9accc308-47ca-48bf-9f15-e39d682121b1) | Alura | set. 2022 |
-| [Git e GitHub](https://drive.google.com/file/d/1gOQa9WrgsVIkxOeeJi_yteLLaFrovRBW/view?usp=sharing) | Curso em Vídeo | out. 2022 |
-| [HTML5 e CSS3](https://drive.google.com/file/d/1FX_yX3LkE-wE1StpiZN11fqF3HaiL1rB/view?usp=sharing) | Curso em Vídeo | set. 2022 |
-
-**Dados, indústria e outros**
-
-| Curso | Instituição |
-|---|---|
-| [Big Data Fundamentos 2.0](https://goo.gl/uATjCs) (mar. 2018) | Data Science Academy |
-| Siemens STEP 7 | Simatec |
-| Capacitação Técnica em Linha de Produção Automatizada — Planta Ixtacomitán, México | Coca-Cola FEMSA |
-| Diagnóstico Integral de Linhas de Engarrafamento — Jundiaí, SP | Coca-Cola FEMSA |
-| Manutenção em Autoclaves | Dental Tiba |
-| Manutenção em Instrumentos de Alta e Baixa Rotação e Cirúrgicos Odontológicos | Dental Tiba |
-| Filosofia | Fundação Getulio Vargas |
-
-</details>
 
 ### 🚀 Projetos em destaque
 
