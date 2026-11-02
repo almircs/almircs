@@ -221,12 +221,7 @@ Técnico em eletrônica com **mais de 30 anos** em manutenção e automação in
 
 **Teste online:**
 [Helyx no celular](https://almircs.github.io/helyx-celular/) ·
-[Jogo da Velha](https://almircs.github.io/Jogo-da-Velha/) ·
-[Freeway](https://almircs.github.io/Freeway/) ·
-[Alura MIDI](https://almircs.github.io/Aluramidi/) ·
-[HZC](https://almircs.github.io/Flex-e-Grid/) ·
-[Barbearia](https://almircs.github.io/Barbearia/) ·
-[Exercícios HTML & CSS](https://almircs.github.io/HTML-CSS/)
+[Finora no iPad](https://almircs.github.io/finora-ipad/)
 
 </div>
 
