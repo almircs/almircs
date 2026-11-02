@@ -220,6 +220,7 @@ Técnico em eletrônica com **mais de 30 anos** em manutenção e automação in
 </picture></a>
 
 **Teste online:**
+[Helyx no celular](https://almircs.github.io/helyx-celular/) ·
 [Jogo da Velha](https://almircs.github.io/Jogo-da-Velha/) ·
 [Freeway](https://almircs.github.io/Freeway/) ·
 [Alura MIDI](https://almircs.github.io/Aluramidi/) ·
