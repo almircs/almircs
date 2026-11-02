@@ -183,6 +183,11 @@ Técnico em eletrônica com **mais de 30 anos** em manutenção e automação in
 
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/helyx-pin-escuro.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/helyx-pin-claro.svg">
+  <img src="./assets/helyx-pin-claro.svg" alt="Helyx v1.11.0 — gestão pessoal de saúde (repositório privado)"/>
+</picture>
 <a href="https://github.com/almircs/Jogo-da-Velha"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=almircs&repo=Jogo-da-Velha&theme=dark&hide_border=true&locale=pt-br">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=almircs&repo=Jogo-da-Velha&theme=default&hide_border=false&locale=pt-br">
