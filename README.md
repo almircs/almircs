@@ -230,19 +230,19 @@ Técnico em eletrônica com **mais de 30 anos** em manutenção e automação in
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=almircs&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br&card_width=495">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=almircs&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true&locale=pt-br&card_width=495">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=almircs&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true&locale=pt-br&card_width=495" alt="Estatísticas do GitHub"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=almircs&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br&card_width=495&disable_animations=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=almircs&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true&locale=pt-br&card_width=495&disable_animations=true">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=almircs&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true&locale=pt-br&card_width=495&disable_animations=true" alt="Estatísticas do GitHub"/>
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=almircs&theme=dark&hide_border=true&locale=pt_BR&card_width=495&card_height=195">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=almircs&theme=default&hide_border=false&locale=pt_BR&card_width=495&card_height=195">
-  <img width="49%" src="https://streak-stats.demolab.com?user=almircs&theme=default&hide_border=false&locale=pt_BR&card_width=495&card_height=195" alt="Sequência de contribuições"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=almircs&theme=dark&hide_border=true&locale=pt_BR&card_width=495&card_height=195&disable_animations=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=almircs&theme=default&hide_border=false&locale=pt_BR&card_width=495&card_height=195&disable_animations=true">
+  <img width="49%" src="https://streak-stats.demolab.com?user=almircs&theme=default&hide_border=false&locale=pt_BR&card_width=495&card_height=195&disable_animations=true" alt="Sequência de contribuições"/>
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=almircs&layout=compact&langs_count=8&theme=dark&hide_border=true&locale=pt-br&card_width=1000">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=almircs&layout=compact&langs_count=8&theme=default&hide_border=false&locale=pt-br&card_width=1000">
-  <img width="98.6%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almircs&layout=compact&langs_count=8&theme=default&hide_border=false&locale=pt-br&card_width=1000" alt="Linguagens mais usadas"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=almircs&layout=compact&langs_count=8&theme=dark&hide_border=true&locale=pt-br&card_width=1000&disable_animations=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=almircs&layout=compact&langs_count=8&theme=default&hide_border=false&locale=pt-br&card_width=1000&disable_animations=true">
+  <img width="98.6%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almircs&layout=compact&langs_count=8&theme=default&hide_border=false&locale=pt-br&card_width=1000&disable_animations=true" alt="Linguagens mais usadas"/>
 </picture>
 
 </div>
