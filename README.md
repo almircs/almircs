@@ -188,6 +188,11 @@ Técnico em eletrônica com **mais de 30 anos** em manutenção e automação in
   <source media="(prefers-color-scheme: light)" srcset="./assets/helyx-pin-claro.svg">
   <img src="./assets/helyx-pin-claro.svg" alt="Helyx v1.11.0 — gestão pessoal de saúde (repositório privado)"/>
 </picture>
+<a href="https://github.com/almircs/korum"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/korum-pin-escuro.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/korum-pin-claro.svg">
+  <img src="./assets/korum-pin-claro.svg" alt="Korum v1.1.0 — laboratório virtual de robótica industrial"/>
+</picture></a>
 
 **Teste online:**
 [Helyx no celular](https://almircs.github.io/helyx-celular/) ·
