@@ -188,36 +188,6 @@ Técnico em eletrônica com **mais de 30 anos** em manutenção e automação in
   <source media="(prefers-color-scheme: light)" srcset="./assets/helyx-pin-claro.svg">
   <img src="./assets/helyx-pin-claro.svg" alt="Helyx v1.11.0 — gestão pessoal de saúde (repositório privado)"/>
 </picture>
-<a href="https://github.com/almircs/Jogo-da-Velha"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/almircs/almircs/cartoes/projeto-jogo-da-velha-escuro.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/almircs/almircs/cartoes/projeto-jogo-da-velha-claro.svg">
-  <img src="https://raw.githubusercontent.com/almircs/almircs/cartoes/projeto-jogo-da-velha-claro.svg" alt="Jogo da Velha"/>
-</picture></a>
-<a href="https://github.com/almircs/Freeway"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/almircs/almircs/cartoes/projeto-freeway-escuro.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/almircs/almircs/cartoes/projeto-freeway-claro.svg">
-  <img src="https://raw.githubusercontent.com/almircs/almircs/cartoes/projeto-freeway-claro.svg" alt="Freeway"/>
-</picture></a>
-<a href="https://github.com/almircs/Aluramidi"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/almircs/almircs/cartoes/projeto-aluramidi-escuro.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/almircs/almircs/cartoes/projeto-aluramidi-claro.svg">
-  <img src="https://raw.githubusercontent.com/almircs/almircs/cartoes/projeto-aluramidi-claro.svg" alt="Alura MIDI"/>
-</picture></a>
-<a href="https://github.com/almircs/Flex-e-Grid"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/almircs/almircs/cartoes/projeto-flex-e-grid-escuro.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/almircs/almircs/cartoes/projeto-flex-e-grid-claro.svg">
-  <img src="https://raw.githubusercontent.com/almircs/almircs/cartoes/projeto-flex-e-grid-claro.svg" alt="HZC — Flexbox e Grid"/>
-</picture></a>
-<a href="https://github.com/almircs/Barbearia"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/almircs/almircs/cartoes/projeto-barbearia-escuro.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/almircs/almircs/cartoes/projeto-barbearia-claro.svg">
-  <img src="https://raw.githubusercontent.com/almircs/almircs/cartoes/projeto-barbearia-claro.svg" alt="Barbearia Alura"/>
-</picture></a>
-<a href="https://github.com/almircs/HTML-CSS"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/almircs/almircs/cartoes/projeto-html-css-escuro.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/almircs/almircs/cartoes/projeto-html-css-claro.svg">
-  <img src="https://raw.githubusercontent.com/almircs/almircs/cartoes/projeto-html-css-claro.svg" alt="HTML5 e CSS3"/>
-</picture></a>
 
 **Teste online:**
 [Helyx no celular](https://almircs.github.io/helyx-celular/) ·
