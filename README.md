@@ -189,34 +189,34 @@ Técnico em eletrônica com **mais de 30 anos** em manutenção e automação in
   <img src="./assets/helyx-pin-claro.svg" alt="Helyx v1.11.0 — gestão pessoal de saúde (repositório privado)"/>
 </picture>
 <a href="https://github.com/almircs/Jogo-da-Velha"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=almircs&repo=Jogo-da-Velha&theme=dark&hide_border=true&locale=pt-br">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=almircs&repo=Jogo-da-Velha&theme=default&hide_border=false&locale=pt-br">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=almircs&repo=Jogo-da-Velha&theme=default&hide_border=false&locale=pt-br" alt="Jogo da Velha"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/almircs/almircs/cartoes/projeto-jogo-da-velha-escuro.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/almircs/almircs/cartoes/projeto-jogo-da-velha-claro.svg">
+  <img src="https://raw.githubusercontent.com/almircs/almircs/cartoes/projeto-jogo-da-velha-claro.svg" alt="Jogo da Velha"/>
 </picture></a>
 <a href="https://github.com/almircs/Freeway"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=almircs&repo=Freeway&theme=dark&hide_border=true&locale=pt-br">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=almircs&repo=Freeway&theme=default&hide_border=false&locale=pt-br">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=almircs&repo=Freeway&theme=default&hide_border=false&locale=pt-br" alt="Freeway"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/almircs/almircs/cartoes/projeto-freeway-escuro.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/almircs/almircs/cartoes/projeto-freeway-claro.svg">
+  <img src="https://raw.githubusercontent.com/almircs/almircs/cartoes/projeto-freeway-claro.svg" alt="Freeway"/>
 </picture></a>
 <a href="https://github.com/almircs/Aluramidi"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=almircs&repo=Aluramidi&theme=dark&hide_border=true&locale=pt-br">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=almircs&repo=Aluramidi&theme=default&hide_border=false&locale=pt-br">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=almircs&repo=Aluramidi&theme=default&hide_border=false&locale=pt-br" alt="Alura MIDI"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/almircs/almircs/cartoes/projeto-aluramidi-escuro.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/almircs/almircs/cartoes/projeto-aluramidi-claro.svg">
+  <img src="https://raw.githubusercontent.com/almircs/almircs/cartoes/projeto-aluramidi-claro.svg" alt="Alura MIDI"/>
 </picture></a>
 <a href="https://github.com/almircs/Flex-e-Grid"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=almircs&repo=Flex-e-Grid&theme=dark&hide_border=true&locale=pt-br">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=almircs&repo=Flex-e-Grid&theme=default&hide_border=false&locale=pt-br">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=almircs&repo=Flex-e-Grid&theme=default&hide_border=false&locale=pt-br" alt="HZC — Flexbox e Grid"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/almircs/almircs/cartoes/projeto-flex-e-grid-escuro.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/almircs/almircs/cartoes/projeto-flex-e-grid-claro.svg">
+  <img src="https://raw.githubusercontent.com/almircs/almircs/cartoes/projeto-flex-e-grid-claro.svg" alt="HZC — Flexbox e Grid"/>
 </picture></a>
 <a href="https://github.com/almircs/Barbearia"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=almircs&repo=Barbearia&theme=dark&hide_border=true&locale=pt-br">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=almircs&repo=Barbearia&theme=default&hide_border=false&locale=pt-br">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=almircs&repo=Barbearia&theme=default&hide_border=false&locale=pt-br" alt="Barbearia Alura"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/almircs/almircs/cartoes/projeto-barbearia-escuro.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/almircs/almircs/cartoes/projeto-barbearia-claro.svg">
+  <img src="https://raw.githubusercontent.com/almircs/almircs/cartoes/projeto-barbearia-claro.svg" alt="Barbearia Alura"/>
 </picture></a>
 <a href="https://github.com/almircs/HTML-CSS"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=almircs&repo=HTML-CSS&theme=dark&hide_border=true&locale=pt-br">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=almircs&repo=HTML-CSS&theme=default&hide_border=false&locale=pt-br">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=almircs&repo=HTML-CSS&theme=default&hide_border=false&locale=pt-br" alt="HTML5 e CSS3"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/almircs/almircs/cartoes/projeto-html-css-escuro.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/almircs/almircs/cartoes/projeto-html-css-claro.svg">
+  <img src="https://raw.githubusercontent.com/almircs/almircs/cartoes/projeto-html-css-claro.svg" alt="HTML5 e CSS3"/>
 </picture></a>
 
 **Teste online:**
@@ -230,9 +230,9 @@ Técnico em eletrônica com **mais de 30 anos** em manutenção e automação in
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=almircs&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br&card_width=495&disable_animations=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=almircs&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true&locale=pt-br&card_width=495&disable_animations=true">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=almircs&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true&locale=pt-br&card_width=495&disable_animations=true" alt="Estatísticas do GitHub"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/almircs/almircs/cartoes/estatisticas-escuro.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/almircs/almircs/cartoes/estatisticas-claro.svg">
+  <img width="49%" src="https://raw.githubusercontent.com/almircs/almircs/cartoes/estatisticas-claro.svg" alt="Estatísticas do GitHub"/>
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=almircs&theme=dark&hide_border=true&locale=pt_BR&card_width=495&card_height=195&disable_animations=true">
@@ -240,9 +240,9 @@ Técnico em eletrônica com **mais de 30 anos** em manutenção e automação in
   <img width="49%" src="https://streak-stats.demolab.com?user=almircs&theme=default&hide_border=false&locale=pt_BR&card_width=495&card_height=195&disable_animations=true" alt="Sequência de contribuições"/>
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=almircs&layout=compact&langs_count=8&theme=dark&hide_border=true&locale=pt-br&card_width=1000&disable_animations=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=almircs&layout=compact&langs_count=8&theme=default&hide_border=false&locale=pt-br&card_width=1000&disable_animations=true">
-  <img width="98.6%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almircs&layout=compact&langs_count=8&theme=default&hide_border=false&locale=pt-br&card_width=1000&disable_animations=true" alt="Linguagens mais usadas"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/almircs/almircs/cartoes/linguagens-escuro.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/almircs/almircs/cartoes/linguagens-claro.svg">
+  <img width="98.6%" src="https://raw.githubusercontent.com/almircs/almircs/cartoes/linguagens-claro.svg" alt="Linguagens mais usadas"/>
 </picture>
 
 </div>
