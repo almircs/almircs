@@ -1,0 +1,44 @@
+name: Atualizar cartões do perfil
+
+# Gera os cartões de projetos, estatísticas e linguagens do README
+# (substitui o serviço github-readme-stats, que falha por excesso de uso)
+# e publica no branch "cartoes", sem criar commits no main.
+
+on:
+  schedule:
+    - cron: "23 6 * * *" # todo dia às 03:23 de Brasília
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/scripts/cartoes.py"
+      - ".github/workflows/cartoes.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: cartoes
+  cancel-in-progress: true
+
+jobs:
+  gerar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Gerar cartões
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python .github/scripts/cartoes.py saida
+
+      - name: Publicar no branch cartoes
+        run: |
+          cd saida
+          git init -q -b cartoes
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -q -m "Cartões atualizados em $(date -u +%Y-%m-%d)"
+          git push -q --force "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" cartoes
