@@ -43,5 +43,5 @@
     <animate attributeName="x" values="-140;416" dur="2.6s" repeatCount="indefinite"/>
   </rect>
 </g>
-<text x="24" y="240" font-family="'Segoe UI', -apple-system, Roboto, Helvetica, Arial, sans-serif" font-size="11" fill="#57606a">Repositório privado · em desenvolvimento ativo</text>
+<text x="24" y="240" font-family="'Segoe UI', -apple-system, Roboto, Helvetica, Arial, sans-serif" font-size="11" fill="#57606a">Código aberto para consulta · em desenvolvimento ativo</text>
 </svg>
