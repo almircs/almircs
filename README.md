@@ -184,9 +184,9 @@ Técnico em eletrônica com **mais de 30 anos** em manutenção e automação in
 <div align="center">
 
 <a href="https://github.com/almircs/helix"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/helyx-pin-escuro.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/helyx-pin-claro.svg">
-  <img src="./assets/helyx-pin-claro.svg" alt="Helyx v1.11.0 — gestão pessoal de saúde"/>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/helyx-destaque-escuro.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/helyx-destaque-claro.svg">
+  <img src="./assets/helyx-destaque-claro.svg" alt="Helyx v1.11.0 — gestão pessoal de saúde"/>
 </picture></a>
 <a href="https://github.com/almircs/korum"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/korum-pin-escuro.svg">
